@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Laksitha11/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0319-bulb-switcher](https://github.com/Laksitha11/leetcode/tree/master/0319-bulb-switcher) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Laksitha11/leetcode/tree/master/0207-course-schedule) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Laksitha11/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
