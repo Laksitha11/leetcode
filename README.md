@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Laksitha11/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Laksitha11/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Laksitha11/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Laksitha11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Depth-First Search
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Laksitha11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
