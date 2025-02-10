@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laksitha11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Laksitha11/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Laksitha11/leetcode/tree/master/0319-bulb-switcher) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laksitha11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Laksitha11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Backtracking
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laksitha11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/Laksitha11/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -71,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laksitha11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/Laksitha11/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laksitha11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/Laksitha11/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
