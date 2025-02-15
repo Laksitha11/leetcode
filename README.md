@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Laksitha11/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Laksitha11/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
+| [0565-array-nesting](https://github.com/Laksitha11/leetcode/tree/master/0565-array-nesting) |
 | [0624-maximum-distance-in-arrays](https://github.com/Laksitha11/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Laksitha11/leetcode/tree/master/0207-course-schedule) |
 | [0508-most-frequent-subtree-sum](https://github.com/Laksitha11/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0565-array-nesting](https://github.com/Laksitha11/leetcode/tree/master/0565-array-nesting) |
 ## Breadth-First Search
 |  |
 | ------- |
