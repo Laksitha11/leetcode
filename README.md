@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
 | [0565-array-nesting](https://github.com/Laksitha11/leetcode/tree/master/0565-array-nesting) |
 | [0624-maximum-distance-in-arrays](https://github.com/Laksitha11/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0835-linked-list-components](https://github.com/Laksitha11/leetcode/tree/master/0835-linked-list-components) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Laksitha11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/Laksitha11/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0835-linked-list-components](https://github.com/Laksitha11/leetcode/tree/master/0835-linked-list-components) |
 ## String
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Laksitha11/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0835-linked-list-components](https://github.com/Laksitha11/leetcode/tree/master/0835-linked-list-components) |
 <!---LeetCode Topics End-->
