@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Laksitha11/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Laksitha11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Laksitha11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Laksitha11/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Laksitha11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0885-exam-room](https://github.com/Laksitha11/leetcode/tree/master/0885-exam-room) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Laksitha11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
