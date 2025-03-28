@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Laksitha11/leetcode/tree/master/0565-array-nesting) |
 | [0624-maximum-distance-in-arrays](https://github.com/Laksitha11/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0835-linked-list-components](https://github.com/Laksitha11/leetcode/tree/master/0835-linked-list-components) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Laksitha11/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Laksitha11/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Laksitha11/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Laksitha11/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Laksitha11/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
