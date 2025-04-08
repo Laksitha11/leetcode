@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Laksitha11/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Laksitha11/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Laksitha11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0565-array-nesting](https://github.com/Laksitha11/leetcode/tree/master/0565-array-nesting) |
 | [0624-maximum-distance-in-arrays](https://github.com/Laksitha11/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0835-linked-list-components](https://github.com/Laksitha11/leetcode/tree/master/0835-linked-list-components) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Laksitha11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Laksitha11/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
