@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Laksitha11/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Laksitha11/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Laksitha11/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Laksitha11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0565-array-nesting](https://github.com/Laksitha11/leetcode/tree/master/0565-array-nesting) |
 | [0624-maximum-distance-in-arrays](https://github.com/Laksitha11/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Laksitha11/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Laksitha11/leetcode/tree/master/0207-course-schedule) |
 | [0508-most-frequent-subtree-sum](https://github.com/Laksitha11/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0565-array-nesting](https://github.com/Laksitha11/leetcode/tree/master/0565-array-nesting) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Laksitha11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Laksitha11/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Laksitha11/leetcode/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Laksitha11/leetcode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Laksitha11/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Laksitha11/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
