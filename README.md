@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Laksitha11/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Laksitha11/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/Laksitha11/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0835-linked-list-components](https://github.com/Laksitha11/leetcode/tree/master/0835-linked-list-components) |
 ## Ordered Set
 |  |
