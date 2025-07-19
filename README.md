@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Laksitha11/leetcode/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/Laksitha11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Laksitha11/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Laksitha11/leetcode/tree/master/0189-rotate-array) |
